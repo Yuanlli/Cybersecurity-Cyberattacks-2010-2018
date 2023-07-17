@@ -1,0 +1,14 @@
+
+## Data cleaning and data exploration
+
+```sql
+select *
+from dbo.[cyberattacks cleaned.xlsx]
+```
+
+```sql
+--clean blanks -remove 2 organisations which methods are unknown
+select *
+from dbo.[cyberattacks cleaned.xlsx]
+where Method = 'unknown'
+```
