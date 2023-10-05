@@ -10,8 +10,9 @@ The need for better cybersecurity is more pressing for large companies and gover
 
 ## Objective
 - Data analysis with SQL
-- clean the dataset
-- find out what are the major types of cybersecurity attacks from 2010 - 2018
+- Clean the dataset
+- What are the industries involved?
+- What are the major types of cybersecurity attacks from 2010 - 2018?
 
 ### Data Cleaning 
 ```sql
